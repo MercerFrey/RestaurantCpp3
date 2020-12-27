@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melih/CLionProjects/cmpe250-assignment3-MercerFrey/SeatOperations.cpp
+SeatOperations.h
+/home/melih/CLionProjects/cmpe250-assignment3-MercerFrey/SeatOperations.h
+
+/home/melih/CLionProjects/cmpe250-assignment3-MercerFrey/SeatOperations.h
+iostream
+-
+vector
+-
+fstream
+-
+
